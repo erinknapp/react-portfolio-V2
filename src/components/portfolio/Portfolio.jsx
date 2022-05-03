@@ -62,22 +62,20 @@ return (
 
           <li>
           <div className="card col-sm">
-              <img className="card-img-top" src="assets/horiseon.JPG" alt="" />
+              <img className="card-img-top" src="assets/photo-port.JPG" alt="" />
                 <div className="card-body">
-                  <h5 className="card-title">Horiseon Refactor</h5>
-                  <p className="card-text">some words</p>
-                  <a href="https://erinknapp.github.io/refactor-homework/" className="btn btn-primary">go somwhere</a>
+                  <h5 className="card-title">Photo-Port React</h5>
+                  <a href="https://erinknapp.github.io/photo-port/" className="btn btn-primary">Photo-port website</a>
                 </div>
             </div>
 
           </li>
           <li>
           <div className="card col-sm">
-              <img className="card-img-top" src="assets/horiseon.JPG" alt="" />
+              <img className="card-img-top" src="assets/team-profile.JPG" alt="" />
                 <div className="card-body">
-                  <h5 className="card-title">Horiseon Refactor</h5>
-                  <p className="card-text">some words</p>
-                  <a href="https://erinknapp.github.io/refactor-homework/" className="btn btn-primary">go somwhere</a>
+                  <h5 className="card-title">OOP Team Profile Manager</h5>
+                  <a href="https://github.com/erinknapp/oop-team-profile-generator" className="btn btn-primary">Team Profile Code</a>
                 </div>
             </div>
 
