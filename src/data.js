@@ -3,19 +3,22 @@ export const featuredPortfolio = [
       id: 1,
       title: "Horiseon Website Refactor Challenge",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "assets/horiseon.JPG",
+      url:"https://erinknapp.github.io/refactor-homework/"
     },
     {
       id: 2,
       title: "Regex-Tutorial",
       img:
-        "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
-    },
+        "assets/regex.JPG",
+      url: "https://github.com/erinknapp/regex-tutorial/blob/main/Develop/gist-template.md"
+      },
     {
       id: 3,
-      title: "E-commerce Web Design",
+      title: "Git-It-Done",
       img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+        "assets/git-it-done.JPG",
+      url: "https://erinknapp.github.io/git-it-done/"
     },
     {
       id: 4,

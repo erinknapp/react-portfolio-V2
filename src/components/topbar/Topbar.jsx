@@ -1,6 +1,7 @@
 import "./topbar.scss";
 import MailIcon from '@mui/icons-material/Mail';
 import PersonIcon from '@mui/icons-material/Person';
+import GitHubIcon from '@mui/icons-material/GitHub';
 
 export default function Topbar({ menuOpen, setMenuOpen }) {
   return (
@@ -17,6 +18,11 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           <div className="itemContainer">
             <MailIcon className="icon" />
             <span>erin.knapp@gmail.com</span>
+          </div>
+          <div className="itemContainer">
+            <GitHubIcon className="icon" />
+            <span>https://github.com/erinknapp</span>
+
           </div>
         </div>
         <div className="right">
